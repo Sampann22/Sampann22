@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sampann Tiwari</h1>
+<h1 align="center">Hi 👋, I'm Saiyan Tech</h1>
 <h3 align="center">🚀 Full Stack Developer | 🌱 AI/ML Learner | 💻 Tech Explorer</h3>
 
 <p align="center">
